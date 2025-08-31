@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Check } from '@/components/Check';
+import { Check } from '../components/Check';
 
 type DiagResponse = {
   ok: boolean;
